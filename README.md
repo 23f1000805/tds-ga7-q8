@@ -1,21 +1,11 @@
-Below is a ready-to-use `README.md` you can copy into your repository (replace any existing README). It matches the assignment requirements exactly:
-
-* Uses the given quarterly data (Q1..Q4) and shows **Average: 4.79**.
-* Industry target set to **4.5**.
-* Explicit required solution included: **"improve service quality and wait times"**.
-* Includes your email `23f1000805@ds.study.iitm.ac.in` for verification.
-* Mentions LLM assistance (Jules / ChatGPT Codex).
-* Includes reproduction instructions, files expected in the PR, and image placeholders for the plots.
-
-Copy this whole file to `README.md` in your PR branch.
 
 ---
 
 # Patient Satisfaction — 2024 Quarterly Analysis & Data Story
 
-**📧 Analysis by:** [23f1000805@ds.study.iitm.ac.in](mailto:23f1000805@ds.study.iitm.ac.in)
-**📅 Report Date:** August 17, 2025
-**🤖 LLM Assistance:** Generated with Jules (ChatGPT Codex) — [https://chatgpt.com/codex/tasks](https://chatgpt.com/codex/tasks)
+**📧 Analysis by:** [23f1000805@ds.study.iitm.ac.in](mailto:23f1000805@ds.study.iitm.ac.in) 
+**📅 Report Date:** August 17, 2025 
+**🤖 LLM Assistance:** Generated with Jules (ChatGPT Codex) — [https://chatgpt.com/codex/tasks](https://chatgpt.com/codex/tasks) 
 
 ---
 
@@ -103,5 +93,6 @@ The Pull Request should include the following files placed at the repository roo
 * `gap_to_target.png` — PNG exported by the script or created manually.
 
 ---
+
 
 
