@@ -1,10 +1,10 @@
 # Quarterly Performance Analysis - Q2 2025 Data Story
 
-**📧 Analysis by:** 23f1000805@ds.study.iitm.ac.in
-**📅 Report Date:** August 17, 2025 
-**🎯 Target Performance Score:** 15.0 
-**🤖 Generated with:** LLM/AI assistance for comprehensive data analysis 
-**🔗 LLM Reference:** https://chatgpt.com/codex/tasks 
+**📧 Analysis by:** 23f1000805@ds.study.iitm.ac.in  
+**📅 Report Date:** August 17, 2025  
+**🎯 Target Performance Score:** 15.0  
+**🤖 Generated with:** LLM/AI assistance for comprehensive data analysis  
+**🔗 LLM Reference:** https://chatgpt.com/codex/tasks
 
 ## Executive Summary
 
@@ -159,9 +159,8 @@ The analysis clearly shows that we must **expand into new market segments** to a
 ---
 
 **📧 For questions or detailed discussion, contact:** 23f1000805@ds.study.iitm.ac.in
+**Pull Request Version - Data Analysis with LLM
 
 **🎯 Target Achievement:** With focused execution of market expansion strategy, we project achieving 90-97% of our target performance score of 15.0 within 6 months.
 
 **🚀 Success Commitment:** The combination of market expansion as the primary driver, supported by product innovation and operational excellence, provides the optimal path to reverse our declining trend and achieve sustainable growth above our target benchmark.**
-
-
